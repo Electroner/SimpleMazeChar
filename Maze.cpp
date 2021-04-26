@@ -1,4 +1,4 @@
-//g++ EjercicioED9.cpp -o final && ./final
+//g++ Maze.cpp -o final && ./final
 
 #include <iostream>
 #include <stdlib.h>
